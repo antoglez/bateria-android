@@ -27,7 +27,11 @@ Puedes descargar el archivo APK directamente desde este repositorio para instala
 5. Busca **Batería Grande** y arrástralo a tu pantalla.
 
 ## Capturas de pantalla
-*(Próximamente)*
+
+<p align="center">
+  <img src="screenshots/wid1.jpeg" width="300" alt="Widget Vista 1">
+  <img src="screenshots/wid2.jpeg" width="300" alt="Widget Vista 2">
+</p>
 
 ---
 Desarrollado con ❤️ para Pedro IA.
