@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clip xmlns:android="http://schemas.android.com/apk/res/android"
+    android:clipOrientation="horizontal"
+    android:gravity="left">
+    
+    <shape android:shape="rectangle">
+        <!-- Color sólido dinámico o gradiente de fondo, el color real lo manejaremos seteando onTint o cambiando el drawable en código, pero necesitamos un drawable base -->
+        <solid android:color="#FFFFFF" /> <!-- El color base -->
+        <corners android:radius="10dp" />
+    </shape>
+    
+</clip>

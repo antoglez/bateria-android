@@ -1,0 +1,22 @@
+# Android GitIgnore
+.gradle/
+build/
+local.properties
+.idea/workspace.xml
+.idea/libraries
+*.iml
+captures/
+.externalNativeBuild/
+.DS_Store
+app/build/
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetDropDown.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+*.jks
+*.keystore
+google-services.json
